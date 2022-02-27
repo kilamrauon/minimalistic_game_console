@@ -1,10 +1,10 @@
 /*
  * Missile command ATTINY85
- * just a minimalistic game console <ith:
+ * just a minimalistic game console with:
  * an Attiny85
  * a 5 button keyboard from keyes : ref : Keyer-AD-key - KB45037
  * a 8x7 led segment max7219
- * a buzzer (optional, just for fun and because I had one pin left on the Attiny
+ * a buzzer (optional), just for fun and because I had one pin left on the Attiny
  * 
  * How to play
  * turn on the console
@@ -23,9 +23,9 @@
  * 
  * aliens speed is increasing during the game and when you reach some levels, 2 to 3 aliens are going down.
  * 
- * when you lose, the score is displayed for 2seconds and then switches back and forth 
+ * when you lose, the score is displayed for 2 seconds and then switches back and forth 
  * to the high score.
- * The high score is saved tp the eeprom
+ * The high score is saved to the eeprom
  * 
  * 
  * To play again you need to push a button for a few seconds.

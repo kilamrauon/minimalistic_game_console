@@ -11,19 +11,29 @@ The final prototype : https://youtu.be/7Ir9gm09HzU
 
 Before I take the time to make schematics :
 
+
 For the 8*7 led segment :
+
 DIN -> PB1
+
 CS -> PB3
+
 CLK -> PB4
+
 
 Keyboard out -> A1
 
+
 Buzzer  + -> PB0
 
+
+
 How to play:
+
 The game starts automatically (the high score is displayed for 2 seconds, taken from the eeprom)
 
 Push the button 1 to 4 to move the missile
+
 Push button 5 to shoot
 
 You have 5 lives (==)(four dashes representing the shields, disapearing when shot, and one last chance when the 4 are lost)  at the botton and the missile is the '|' that moves.

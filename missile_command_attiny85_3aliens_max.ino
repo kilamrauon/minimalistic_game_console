@@ -198,7 +198,7 @@ void loop() {
     temps_joueur = millis();
   }
 
-  //ont a tiré?
+  //on a tiré?
   if (tir_ok && millis() - temps_tir >100)
 {
   yj--; //on lance le tir
@@ -449,7 +449,7 @@ if (score > best)
      }
      score = 0;
   }
- //  pour info sur les différents affichaes possibles 
+ //  pour info sur les différents affichages possibles 
   /* for (int i=0; i<255;i++)
     {
     for (int j = 0; j<9; j++)

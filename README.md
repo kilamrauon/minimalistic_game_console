@@ -9,7 +9,7 @@ The final prototype : https://youtu.be/7Ir9gm09HzU
 
 
 
-Before I take the time to make schematics :
+You can take a look a the wiring(x).jpg pictures to have an idea of how to connect the parts :
 
 
 For the 8*7 led segment :
@@ -21,7 +21,7 @@ CS -> PB3
 CLK -> PB4
 
 
-Keyboard out -> A1
+Keyboard out -> A1/PB2
 
 
 Buzzer  + -> PB0

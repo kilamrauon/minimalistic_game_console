@@ -1,6 +1,6 @@
-# minimalistic_game_console
+# minimalist_game_console
 
-A minimilastic game console with an attiny85, a 5 buttons ad keyboard, a 8x7 segments red led (with max7219 controller) and a buzzer (optional).
+A minimilast game console with an attiny85, a 5 buttons ad keyboard, a 8x7 segments red led (with max7219 controller) and a buzzer (optional).
 
 I made it to simulate a game I had when I was young : "battlestar galactica - space alert" , from Mattel (just like I remember it, not as it really was)
 

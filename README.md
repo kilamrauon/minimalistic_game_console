@@ -7,7 +7,7 @@ I made it to simulate a game I had when I was young : "battlestar galactica - sp
 The first prototype : https://youtu.be/K5pQh2IcPR4
 
 The final prototype : https://youtu.be/7Ir9gm09HzU
-![Final prototype](protoype_final.jpg )
+![Final prototype](protoype_final.jpg)
 
 
 You can take a look a the wiring(x).jpg pictures to have an idea of how to connect the parts :

@@ -106,8 +106,8 @@ int xa1, ya1,xa2,ya2,xa3,ya3; //coordonnées des aliens
 unsigned long  ta1,ta2,ta3; //temps deplacement alien x
 int alien1,alien2,alien3;
 int vitesse_alien1 = 500; //1/2 seconde pour déplacer les aliens au depart
-int vitesse_alien2 = 500;
-int vitesse_alien3 = 500;
+int vitesse_alien2 = 600;
+int vitesse_alien3 = 700;
 //int alien[][][][];//alien numero a, temps_aliens, x,y en cours
 
 int score = 0;
@@ -427,8 +427,8 @@ temps_joueur = 0;
 
 
 vitesse_alien1 = 500; //1/2 seconde pour déplacer les aliens au depart
-vitesse_alien2 = 500;
-vitesse_alien3 = 500;
+vitesse_alien2 = 600;
+vitesse_alien3 = 700;
 if (score > best) 
 {
   best=score;
